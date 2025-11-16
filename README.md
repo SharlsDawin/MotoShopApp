@@ -27,6 +27,3 @@ jobs and customer records.
 -   Store customer profiles
 -   View purchase and repair history
 -   Fast lookup for recurring clients
-
-------------------------------------------------------------------------
-
